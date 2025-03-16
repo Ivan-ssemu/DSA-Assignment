@@ -5,7 +5,7 @@ Welcome to my repository for Data Structures Assignments. This repository contai
 📚# **Course Overview**
 This repository complements my coursework in Data Structures as part of my studies in Artificial Intelligence and Machine Learning. The assignments cover core concepts including:
 
-**Arrays and Linked Lists (Singly, Doubly, Circular)**
+**Arrays and Linked Lists (Singly, Doubly, Circular):**
 Stacks and Queues (including Deques and Priority Queues)
 Trees (Binary Trees, BSTs, Heaps, etc.)
 Graphs (Adjacency Lists/Matrices, DFS, BFS, etc.)
@@ -15,14 +15,14 @@ Recursion and Dynamic Programming
 File Storage and Data Persistence
 Real-world applications and mini-projects
 
-💻# **Technologies Used**
+💻# **Technologies Used:**
 Language: Python (main), C (for some assignments)
 IDE: VS Code / PyCharm
 Version Control: Git & GitHub
 Tools: Jupyter Notebooks, Graph Visualization (e.g., Graphviz for trees/graphs)
 
 
-🚀# **Notable Projects**
+🚀# **Notable Projects:**
 SACCO Management System: A data structure-based savings and credit system for rural farmers. Implements core banking operations using efficient data structures like linked lists, hash maps, queues, and stacks. Features include file storage and transaction-based balance calculations.
 📈# **Goals**
 Master efficient implementation of data structures
